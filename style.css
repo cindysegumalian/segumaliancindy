@@ -1,0 +1,49 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.d{
+    right: 42%;
+    font-size: 40px;
+    top: 18%;
+    position: absolute;
+}
+
+.main{
+    position: absolute;
+    top: 23%;
+    left: 36%;
+
+}
+
+.deg{
+    position: absolute;
+    bottom: 20%;
+    left: 41%;
+    font-size:120px;
+}
+.a{
+    right:48%;
+    font-size:60px;
+    bottom: 13%;
+    position: absolute;
+}
+
+.p{
+    font-size: 120px;
+    position: absolute;
+    top: 2%;
+    left: 30%;
+}
+
+.f{
+    position: absolute;
+    text-align: center;
+    bottom: 3%;
+    right:43%
+       
+}
